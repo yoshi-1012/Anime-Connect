@@ -45,6 +45,11 @@ REFRESH_SECRET = Your_jwt_refresh_secret_phrase
 
 Replace `your_mongodb_connection_string` with your MongoDB connection string, and `Your_jwt_secret_phrase` with a secret key for JWT authentication.
 
+DB_CONNECTION = <input mongo connection link>
+PORT = 4000
+SECRET = Thsisthesecretkeycretedymy&&&
+REFRESH_SECRET = Thisiisiitherefreshkeycreadet%%%%$$$$@
+
 Run 
 `node server.mjs`
 
