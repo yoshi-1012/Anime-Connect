@@ -45,6 +45,9 @@ REFRESH_SECRET = Your_jwt_refresh_secret_phrase
 
 Replace `your_mongodb_connection_string` with your MongoDB connection string, and `Your_jwt_secret_phrase` with a secret key for JWT authentication.
 
+Run 
+`node server.mjs`
+
 4. Start the Express.js server: Run `npm start or nodemon server.js or node server.js`.
 
 ## 4. Setting up the Frontend
