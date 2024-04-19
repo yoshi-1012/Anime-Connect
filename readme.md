@@ -39,19 +39,28 @@ mern-food-website/
 3. Create a `.env` file in the `backend` directory and add the following environment variables:
 
 `
+
 DB_CONECTION = your_mongodb_connection_string  
+
 PORT = 4000  
+
 SECRET = Your_jwt_secret_phrase  
+
 REFRESH_SECRET = Your_jwt_refresh_secret_phrase
+
 `
 
 Replace `your_mongodb_connection_string` with your MongoDB connection string, and `Your_jwt_secret_phrase` with a secret key for JWT authentication.
 
 `
 DB_CONNECTION = mongodb://127.0.0.1:27017/testdb
+
 PORT = 4000
+
 SECRET = Thsisthesecretkeycretedymy&&&
+
 REFRESH_SECRET = Thisiisiitherefreshkeycreadet%%%%$$$$@
+
 `
 
 
