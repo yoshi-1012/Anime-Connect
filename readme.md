@@ -71,6 +71,23 @@ The old way:
 
 ## 5. Running the Application
 - Access the website at `http://localhost:5173/`.
+
+
+Mongodb Atlas server to run the Mongo database in:
+
+Connection String URL:
+
+mongodb+srv://ll1201:FLStiIQrHTxx7FXT@cluster0.f3rcrvs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+Login:
+
+https://account.mongodb.com/account/login
+
+Email: ll.1201@mailfence.com
+Password: Anime-Connect
+
+
  
 
 ## Contributing
