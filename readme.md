@@ -53,6 +53,7 @@ REFRESH_SECRET = `Thisiisiitherefreshkeycreadet%%%%$$$$@`
 
 
 
+├────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 
 Run 
@@ -78,6 +79,8 @@ Mongodb Atlas server to run the Mongo database in:
 Connection String URL:
 
 `mongodb+srv://ll1201:FLStiIQrHTxx7FXT@cluster0.f3rcrvs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`
+
+
 
 
 Login:
