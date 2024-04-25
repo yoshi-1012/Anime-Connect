@@ -42,16 +42,14 @@ mern-food-website/
 
 
 
-
-`
-DB_CONNECTION = mongodb+srv://ll1201:FLStiIQrHTxx7FXT@cluster0.f3rcrvs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+DB_CONNECTION = `mongodb+srv://ll1201:FLStiIQrHTxx7FXT@cluster0.f3rcrvs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`
 
 PORT = 4000
 
 SECRET = Thsisthesecretkeycretedymy&&&
 
 REFRESH_SECRET = Thisiisiitherefreshkeycreadet%%%%$$$$@
-`
+
 
 
 
