@@ -44,7 +44,7 @@ mern-food-website/
 
 
 
-DB_CONNECTION = mongodb://127.0.0.1:27017/testdb
+DB_CONNECTION = mongodb+srv://ll1201:FLStiIQrHTxx7FXT@cluster0.f3rcrvs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
 PORT = 4000
 
