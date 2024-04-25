@@ -6,7 +6,6 @@ import Cookies from "js-cookie";
 import { useEffect, useState } from "react";
 import { useDispatch } from "react-redux";
 import { isAuth } from "../redux/reducers/auth/authSlice";
-import ReactPlayer from 'react-player/youtube'
 
 const HomePage = () => {
   const dispatch = useDispatch();
@@ -37,7 +36,6 @@ const HomePage = () => {
   }
   return (
     <Box bgcolor={"primary.main"} color={"primary.text"}>
-       <ReactPlayer url='<https://www.youtube.com/watch?v=aL27fX5kv9U>' />
       <Stack
         direction="row"
         divider={<Divider orientation="vertical" flexItem />}
